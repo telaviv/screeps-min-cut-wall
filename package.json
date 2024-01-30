@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Minimize the amount of walls necessary by graph theory!",
   "main": "src/index.ts",
-  "type": "module",
   "scripts": {
     "build": "tsc"
   },
